@@ -9,12 +9,16 @@ Key Features:
 ✓ Force output modes: Extension, Expansion, Shear
 ✓ Flexible meshing with selectable element types
 
-
 How to Use:
 1) Select the desired object shape and specify parameters.
 2) Choose inclusion or void options if needed.
 3) Set force output mode: Extension, Expansion, or Shear.
 4) Select the element type for meshing.
 5) Run the simulation and analyze the results.
-   
+
+How to Download:
+1) Download the FEM Project 2 D file
+2) Source file to Matlab
+3) Run that file FEM_Project_2.mlapp
+
 Video Demonstration: https://youtu.be/p5lXwBumnow
